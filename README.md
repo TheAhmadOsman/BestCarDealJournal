@@ -1,8 +1,6 @@
 # Best Car Deal Journal - Ahmad Osman
 
-Analyzing 1,700,000 cars' listings to find the best deal.
-
-## Journal
+## Analyzing 1,700,000 Cars Listings to Find the Best Deal
 
 ### October 25, 1pm
 
