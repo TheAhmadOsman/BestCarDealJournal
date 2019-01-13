@@ -2,7 +2,17 @@
 
 ### <center>Ahmad Osman</center>
 
-## <center>Analyzing 1,700,000 Cars Listings to Find the Best Deal</center>
+## <center><a href="https://ahmadosman.com/BestCarDeal/">Analyzing 1,700,000 Cars Listings to Find the Best Deal</a></center>
+
+**Scraping, Visualizing, and Analyzing 1,700,000 Entries of Used Cars for Sale on Craigslist to Find The Best Car Deal**
+
+* [Findings, Analysis, and Visualizations](https://ahmadosman.com/BestCarDeal/)
+ 
+* [Scraper, Notebooks, and Interactive Web App](https://github.com/Ahmad-Magdy-Osman/BestCarDeal/)
+
+* [Dataset](http://knuth.luther.edu/~osmaah02/cars.csv)
+
+* [Daily Journal](https://ahmadosman.com/BestCarDealJournal/)
 
 ### October 25, 1pm
 
