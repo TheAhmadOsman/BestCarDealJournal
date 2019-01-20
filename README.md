@@ -6,6 +6,8 @@
 
 **Scraping, Visualizing, and Analyzing 1,700,000 Entries of Used Cars for Sale on Craigslist to Find The Best Car Deal**
 
+Full descriptive explanation and analysis of the project can be found at [https://ahmadosman.com/BestCarDeal/](https://ahmadosman.com/BestCarDeal/)
+
 * [Findings, Analysis, and Visualizations](https://ahmadosman.com/BestCarDeal/)
  
 * [Scraper, Notebooks, and Interactive Web App](https://github.com/Ahmad-Magdy-Osman/BestCarDeal/)
